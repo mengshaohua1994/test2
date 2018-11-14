@@ -1,0 +1,21 @@
+Nov 12 11:00:29 localhost sshd[26819]: Accepted password for root from 192.168.8.64 port 52541 ssh2
+Nov 12 11:00:30 localhost sshd[26819]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 12 18:19:32 localhost sshd[17269]: Accepted password for root from 192.168.8.64 port 60584 ssh2
+Nov 12 18:19:32 localhost sshd[17269]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 12 19:06:55 localhost sshd[19947]: Accepted password for root from 192.168.8.64 port 62353 ssh2
+Nov 12 19:06:55 localhost sshd[19947]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 12 21:44:02 localhost sshd[26819]: pam_unix(sshd:session): session closed for user root
+Nov 12 21:44:14 localhost sshd[19947]: pam_unix(sshd:session): session closed for user root
+Nov 12 21:44:51 localhost sshd[17269]: pam_unix(sshd:session): session closed for user root
+Nov 13 11:02:38 localhost sshd[2172]: Accepted password for root from 192.168.8.64 port 50327 ssh2
+Nov 13 11:02:38 localhost sshd[2172]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 13 15:41:57 localhost sshd[2172]: pam_unix(sshd:session): session closed for user root
+Nov 13 16:03:05 localhost sshd[17021]: Accepted password for root from 192.168.8.64 port 57293 ssh2
+Nov 13 16:03:06 localhost sshd[17021]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 13 17:00:31 localhost sshd[17021]: pam_unix(sshd:session): session closed for user root
+Nov 13 17:07:51 localhost sshd[20225]: Accepted password for root from 192.168.8.64 port 59538 ssh2
+Nov 13 17:07:51 localhost sshd[20225]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 13 18:28:16 localhost useradd[24255]: failed adding user 'git', exit code: 9
+Nov 13 22:20:14 localhost sshd[20225]: pam_unix(sshd:session): session closed for user root
+Nov 14 10:03:21 localhost sshd[5510]: Accepted password for root from 192.168.8.64 port 51634 ssh2
+Nov 14 10:03:21 localhost sshd[5510]: pam_unix(sshd:session): session opened for user root by (uid=0)
