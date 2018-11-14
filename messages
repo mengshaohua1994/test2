@@ -1,0 +1,960 @@
+Nov 11 03:39:26 localhost systemd: Removed slice User Slice of root.
+Nov 11 03:39:26 localhost systemd: Stopping User Slice of root.
+Nov 11 04:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 04:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 04:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 04:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 04:01:01 localhost systemd: Started Session 692 of user root.
+Nov 11 04:01:01 localhost systemd: Starting Session 692 of user root.
+Nov 11 04:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 04:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 04:03:30 localhost mysqld: 2018-11-10T20:03:30.707634Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 04:03:30 localhost mysqld: 2018-11-10T20:03:30.707664Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 04:05:30 localhost mysqld: 2018-11-10T20:05:30.955391Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 04:05:30 localhost mysqld: 2018-11-10T20:05:30.955420Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 05:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 05:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 05:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 05:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 05:01:01 localhost systemd: Started Session 693 of user root.
+Nov 11 05:01:01 localhost systemd: Starting Session 693 of user root.
+Nov 11 05:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 05:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 05:55:08 localhost journal: Nov 10, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 05:55:08 localhost journal: INFO: Started Workspace clean-up
+Nov 11 05:55:08 localhost journal: Nov 10, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 05:55:08 localhost journal: INFO: Finished Workspace clean-up. 158 ms
+Nov 11 06:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 06:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 06:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 06:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 06:01:01 localhost systemd: Started Session 694 of user root.
+Nov 11 06:01:01 localhost systemd: Starting Session 694 of user root.
+Nov 11 06:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 06:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 06:05:46 localhost mysqld: 2018-11-10T22:05:46.450857Z 54718 [Note] Aborted connection 54718 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 11 07:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 07:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 07:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 07:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 07:01:01 localhost systemd: Started Session 695 of user root.
+Nov 11 07:01:01 localhost systemd: Starting Session 695 of user root.
+Nov 11 07:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 07:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 07:23:35 localhost mysqld: 2018-11-10T23:23:35.245682Z 46150 [Note] Aborted connection 46150 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 11 08:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 11 08:00:01 localhost systemd: Started Docker Cleanup.
+Nov 11 08:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 08:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 08:01:01 localhost systemd: Started Session 696 of user root.
+Nov 11 08:01:01 localhost systemd: Starting Session 696 of user root.
+Nov 11 08:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 08:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 08:46:35 localhost mysqld: 2018-11-11T00:46:35.427638Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 08:46:35 localhost mysqld: 2018-11-11T00:46:35.427669Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 09:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 09:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 09:01:02 localhost systemd: Created slice User Slice of root.
+Nov 11 09:01:02 localhost systemd: Starting User Slice of root.
+Nov 11 09:01:02 localhost systemd: Started Session 697 of user root.
+Nov 11 09:01:02 localhost systemd: Starting Session 697 of user root.
+Nov 11 09:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 11 09:01:02 localhost systemd: Stopping User Slice of root.
+Nov 11 09:42:14 localhost mysqld: 2018-11-11T01:42:14.114036Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 09:42:14 localhost mysqld: 2018-11-11T01:42:14.114066Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 10:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 10:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 10:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 10:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 10:01:01 localhost systemd: Started Session 698 of user root.
+Nov 11 10:01:01 localhost systemd: Starting Session 698 of user root.
+Nov 11 10:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 10:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 10:46:37 localhost mysqld: 2018-11-11T02:46:37.237251Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 10:46:37 localhost mysqld: 2018-11-11T02:46:37.237300Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 11:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 11:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 11:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 11:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 11:01:01 localhost systemd: Started Session 699 of user root.
+Nov 11 11:01:01 localhost systemd: Starting Session 699 of user root.
+Nov 11 11:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 11:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 11:05:56 localhost mysqld: 2018-11-11T03:05:56.901185Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 11:05:56 localhost mysqld: 2018-11-11T03:05:56.901215Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 12:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 12:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 12:00:01 localhost systemd: Created slice User Slice of root.
+Nov 11 12:00:01 localhost systemd: Starting User Slice of root.
+Nov 11 12:00:01 localhost systemd: Started Session 700 of user root.
+Nov 11 12:00:01 localhost systemd: Starting Session 700 of user root.
+Nov 11 12:00:08 localhost systemd: Removed slice User Slice of root.
+Nov 11 12:00:08 localhost systemd: Stopping User Slice of root.
+Nov 11 12:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 12:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 12:01:01 localhost systemd: Started Session 701 of user root.
+Nov 11 12:01:01 localhost systemd: Starting Session 701 of user root.
+Nov 11 12:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 12:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 13:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 13:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 13:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 13:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 13:01:01 localhost systemd: Started Session 702 of user root.
+Nov 11 13:01:01 localhost systemd: Starting Session 702 of user root.
+Nov 11 13:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 13:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.026463Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.026493Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.069050Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.069073Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.069389Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 13:03:31 localhost mysqld: 2018-11-11T05:03:31.069404Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`triggers` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 13:46:39 localhost mysqld: 2018-11-11T05:46:39.850311Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 13:46:39 localhost mysqld: 2018-11-11T05:46:39.850342Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 14:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 11 14:00:01 localhost systemd: Started Docker Cleanup.
+Nov 11 14:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 14:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 14:01:01 localhost systemd: Started Session 703 of user root.
+Nov 11 14:01:01 localhost systemd: Starting Session 703 of user root.
+Nov 11 14:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 14:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 15:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 15:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 15:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 15:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 15:01:01 localhost systemd: Started Session 704 of user root.
+Nov 11 15:01:01 localhost systemd: Starting Session 704 of user root.
+Nov 11 15:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 15:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 15:05:35 localhost journal: Nov 11, 2018 7:05:35 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 15:05:35 localhost journal: INFO: Started Download metadata
+Nov 11 15:05:37 localhost journal: Nov 11, 2018 7:05:37 AM hudson.model.DownloadService$Downloadable load
+Nov 11 15:05:37 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+Nov 11 15:05:39 localhost journal: Nov 11, 2018 7:05:39 AM hudson.model.DownloadService$Downloadable load
+Nov 11 15:05:39 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+Nov 11 15:05:40 localhost journal: Nov 11, 2018 7:05:40 AM hudson.model.DownloadService$Downloadable load
+Nov 11 15:05:40 localhost journal: INFO: Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+Nov 11 15:05:49 localhost journal: Nov 11, 2018 7:05:49 AM hudson.model.DownloadService$Downloadable load
+Nov 11 15:05:49 localhost journal: INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+Nov 11 15:05:49 localhost journal: Nov 11, 2018 7:05:49 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 15:05:49 localhost journal: INFO: Finished Download metadata. 14,213 ms
+Nov 11 16:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 16:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 16:01:02 localhost systemd: Created slice User Slice of root.
+Nov 11 16:01:02 localhost systemd: Starting User Slice of root.
+Nov 11 16:01:02 localhost systemd: Started Session 705 of user root.
+Nov 11 16:01:02 localhost systemd: Starting Session 705 of user root.
+Nov 11 16:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 11 16:01:02 localhost systemd: Stopping User Slice of root.
+Nov 11 17:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 17:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 17:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 17:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 17:01:01 localhost systemd: Started Session 706 of user root.
+Nov 11 17:01:01 localhost systemd: Starting Session 706 of user root.
+Nov 11 17:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 17:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 17:26:48 localhost mysqld: 2018-11-11T09:26:48.297491Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 17:26:48 localhost mysqld: 2018-11-11T09:26:48.297536Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 18:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 11 18:00:01 localhost systemd: Started Docker Cleanup.
+Nov 11 18:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 18:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 18:01:01 localhost systemd: Started Session 707 of user root.
+Nov 11 18:01:01 localhost systemd: Starting Session 707 of user root.
+Nov 11 18:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 18:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 18:46:44 localhost mysqld: 2018-11-11T10:46:44.514900Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 18:46:44 localhost mysqld: 2018-11-11T10:46:44.514929Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 19:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 11 19:00:01 localhost systemd: Started Docker Cleanup.
+Nov 11 19:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 19:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 19:01:01 localhost systemd: Started Session 708 of user root.
+Nov 11 19:01:01 localhost systemd: Starting Session 708 of user root.
+Nov 11 19:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 19:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 19:05:59 localhost mysqld: 2018-11-11T11:05:59.505399Z 55530 [Note] Aborted connection 55530 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 11 19:46:45 localhost mysqld: 2018-11-11T11:46:45.538794Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 11 19:46:45 localhost mysqld: 2018-11-11T11:46:45.538823Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 11 20:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 20:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 20:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 20:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 20:01:01 localhost systemd: Started Session 709 of user root.
+Nov 11 20:01:01 localhost systemd: Starting Session 709 of user root.
+Nov 11 20:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 20:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 20:37:20 localhost systemd: Starting Cleanup of Temporary Directories...
+Nov 11 20:37:20 localhost systemd: Started Cleanup of Temporary Directories.
+Nov 11 20:43:38 localhost journal: Nov 11, 2018 12:43:38 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 20:43:38 localhost journal: INFO: Started Fingerprint cleanup
+Nov 11 20:43:39 localhost journal: Nov 11, 2018 12:43:39 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 11 20:43:39 localhost journal: INFO: Finished Fingerprint cleanup. 674 ms
+Nov 11 21:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 21:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 21:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 21:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 21:01:01 localhost systemd: Started Session 710 of user root.
+Nov 11 21:01:01 localhost systemd: Starting Session 710 of user root.
+Nov 11 21:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 21:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 22:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 22:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 22:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 22:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 22:01:01 localhost systemd: Started Session 711 of user root.
+Nov 11 22:01:01 localhost systemd: Starting Session 711 of user root.
+Nov 11 22:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 22:01:01 localhost systemd: Stopping User Slice of root.
+Nov 11 22:50:51 localhost mysqld: 2018-11-11T14:50:51.782322Z 46145 [Note] Aborted connection 46145 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 11 23:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 11 23:00:00 localhost systemd: Started Docker Cleanup.
+Nov 11 23:01:01 localhost systemd: Created slice User Slice of root.
+Nov 11 23:01:01 localhost systemd: Starting User Slice of root.
+Nov 11 23:01:01 localhost systemd: Started Session 712 of user root.
+Nov 11 23:01:01 localhost systemd: Starting Session 712 of user root.
+Nov 11 23:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 11 23:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 00:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 00:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 00:00:01 localhost systemd: Created slice User Slice of root.
+Nov 12 00:00:01 localhost systemd: Starting User Slice of root.
+Nov 12 00:00:01 localhost systemd: Started Session 713 of user root.
+Nov 12 00:00:01 localhost systemd: Starting Session 713 of user root.
+Nov 12 00:00:09 localhost systemd: Removed slice User Slice of root.
+Nov 12 00:00:09 localhost systemd: Stopping User Slice of root.
+Nov 12 00:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 00:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 00:01:01 localhost systemd: Started Session 714 of user root.
+Nov 12 00:01:01 localhost systemd: Starting Session 714 of user root.
+Nov 12 00:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 00:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 01:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 01:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 01:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 01:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 01:01:01 localhost systemd: Started Session 715 of user root.
+Nov 12 01:01:01 localhost systemd: Starting Session 715 of user root.
+Nov 12 01:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 01:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 01:46:51 localhost mysqld: 2018-11-11T17:46:51.513900Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 01:46:51 localhost mysqld: 2018-11-11T17:46:51.513930Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 02:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 02:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 02:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 02:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 02:01:01 localhost systemd: Started Session 716 of user root.
+Nov 12 02:01:01 localhost systemd: Starting Session 716 of user root.
+Nov 12 02:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 02:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 03:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 03:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 03:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 03:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 03:01:01 localhost systemd: Started Session 717 of user root.
+Nov 12 03:01:01 localhost systemd: Starting Session 717 of user root.
+Nov 12 03:49:17 localhost systemd: Removed slice User Slice of root.
+Nov 12 03:49:17 localhost systemd: Stopping User Slice of root.
+Nov 12 04:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 12 04:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 04:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 04:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 04:01:01 localhost systemd: Started Session 718 of user root.
+Nov 12 04:01:01 localhost systemd: Starting Session 718 of user root.
+Nov 12 04:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 04:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 04:04:31 localhost mysqld: 2018-11-11T20:04:31.247445Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 04:04:31 localhost mysqld: 2018-11-11T20:04:31.247481Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 04:04:31 localhost mysqld: 2018-11-11T20:04:31.291557Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 04:04:31 localhost mysqld: 2018-11-11T20:04:31.291596Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 04:46:54 localhost mysqld: 2018-11-11T20:46:54.325323Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 04:46:54 localhost mysqld: 2018-11-11T20:46:54.325363Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 04:46:54 localhost mysqld: 2018-11-11T20:46:54.614726Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 04:46:54 localhost mysqld: 2018-11-11T20:46:54.614768Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 05:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 05:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 05:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 05:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 05:01:01 localhost systemd: Started Session 719 of user root.
+Nov 12 05:01:01 localhost systemd: Starting Session 719 of user root.
+Nov 12 05:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 05:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 05:01:57 localhost mysqld: 2018-11-11T21:01:57.559416Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 05:01:57 localhost mysqld: 2018-11-11T21:01:57.559462Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 05:55:08 localhost journal: Nov 11, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 05:55:08 localhost journal: INFO: Started Workspace clean-up
+Nov 12 05:55:08 localhost journal: Nov 11, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 05:55:08 localhost journal: INFO: Finished Workspace clean-up. 70 ms
+Nov 12 06:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 06:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 06:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 06:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 06:01:01 localhost systemd: Started Session 720 of user root.
+Nov 12 06:01:01 localhost systemd: Starting Session 720 of user root.
+Nov 12 06:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 06:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 07:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 07:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 07:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 07:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 07:01:01 localhost systemd: Started Session 721 of user root.
+Nov 12 07:01:01 localhost systemd: Starting Session 721 of user root.
+Nov 12 07:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 12 07:01:02 localhost systemd: Stopping User Slice of root.
+Nov 12 08:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 08:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 08:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 08:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 08:01:01 localhost systemd: Started Session 722 of user root.
+Nov 12 08:01:01 localhost systemd: Starting Session 722 of user root.
+Nov 12 08:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 08:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 08:03:46 localhost mysqld: 2018-11-12T00:03:46.311652Z 55883 [Note] Aborted connection 55883 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 12 09:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 12 09:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 09:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 09:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 09:01:01 localhost systemd: Started Session 723 of user root.
+Nov 12 09:01:01 localhost systemd: Starting Session 723 of user root.
+Nov 12 09:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 09:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 10:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 10:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 10:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 10:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 10:01:01 localhost systemd: Started Session 724 of user root.
+Nov 12 10:01:01 localhost systemd: Starting Session 724 of user root.
+Nov 12 10:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 10:01:01 localhost systemd: Stopping User Slice of root.
+Nov 12 10:38:28 localhost mysqld: 2018-11-12T02:38:28.696896Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 10:38:28 localhost mysqld: 2018-11-12T02:38:28.696926Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 11:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 12 11:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 11:00:30 localhost systemd: Created slice User Slice of root.
+Nov 12 11:00:30 localhost systemd: Starting User Slice of root.
+Nov 12 11:00:30 localhost systemd: Started Session 725 of user root.
+Nov 12 11:00:30 localhost systemd-logind: New session 725 of user root.
+Nov 12 11:00:30 localhost systemd: Starting Session 725 of user root.
+Nov 12 11:01:01 localhost systemd: Started Session 726 of user root.
+Nov 12 11:01:01 localhost systemd: Starting Session 726 of user root.
+Nov 12 12:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 12:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 12:00:01 localhost systemd: Started Session 727 of user root.
+Nov 12 12:00:01 localhost systemd: Starting Session 727 of user root.
+Nov 12 12:01:01 localhost systemd: Started Session 728 of user root.
+Nov 12 12:01:01 localhost systemd: Starting Session 728 of user root.
+Nov 12 12:47:02 localhost mysqld: 2018-11-12T04:47:02.079618Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 12:47:02 localhost mysqld: 2018-11-12T04:47:02.079646Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 13:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 13:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 13:01:01 localhost systemd: Started Session 729 of user root.
+Nov 12 13:01:01 localhost systemd: Starting Session 729 of user root.
+Nov 12 13:03:30 localhost mysqld: 2018-11-12T05:03:30.164687Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 13:03:30 localhost mysqld: 2018-11-12T05:03:30.164717Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 13:05:07 localhost mysqld: 2018-11-12T05:05:07.192081Z 53979 [Note] Aborted connection 53979 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 12 13:44:50 localhost mysqld: 2018-11-12T05:44:50.398649Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 13:44:50 localhost mysqld: 2018-11-12T05:44:50.398688Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`groups` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 13:58:31 localhost mysqld: 2018-11-12T05:58:31.166957Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 13:58:31 localhost mysqld: 2018-11-12T05:58:31.166994Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 12 14:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 14:00:30 localhost mysqld: 2018-11-12T06:00:30.513663Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:00:30 localhost mysqld: 2018-11-12T06:00:30.513693Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:01:01 localhost systemd: Started Session 730 of user root.
+Nov 12 14:01:01 localhost systemd: Starting Session 730 of user root.
+Nov 12 14:02:55 localhost mysqld: 2018-11-12T06:02:55.718159Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:02:55 localhost mysqld: 2018-11-12T06:02:55.718191Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`housekeeper` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:03:05 localhost mysqld: 2018-11-12T06:03:05.834008Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:03:05 localhost mysqld: 2018-11-12T06:03:05.834049Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`application_template` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:03:15 localhost mysqld: 2018-11-12T06:03:15.834242Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:03:15 localhost mysqld: 2018-11-12T06:03:15.834279Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`housekeeper` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:03:56 localhost mysqld: 2018-11-12T06:03:56.433744Z 58097 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:03:56 localhost mysqld: 2018-11-12T06:03:56.433779Z 58097 [ERROR] InnoDB: Fetch of persistent statistics requested for table `zabbix`.`group_discovery` but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+Nov 12 14:03:56 localhost mysqld: 2018-11-12T06:03:56.550544Z 58097 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:03:56 localhost mysqld: 2018-11-12T06:03:56.550600Z 58097 [ERROR] InnoDB: Fetch of persistent statistics requested for table `zabbix`.`group_prototype` but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+Nov 12 14:04:14 localhost mysqld: 2018-11-12T06:04:14.158517Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:04:14 localhost mysqld: 2018-11-12T06:04:14.158545Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`profiles` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:10:31 localhost mysqld: 2018-11-12T06:10:31.410798Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:10:31 localhost mysqld: 2018-11-12T06:10:31.410827Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:10:32 localhost mysqld: 2018-11-12T06:10:32.769490Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:10:32 localhost mysqld: 2018-11-12T06:10:32.769516Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:47:04 localhost mysqld: 2018-11-12T06:47:04.216189Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:47:04 localhost mysqld: 2018-11-12T06:47:04.216225Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:47:05 localhost mysqld: 2018-11-12T06:47:05.104890Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:47:05 localhost mysqld: 2018-11-12T06:47:05.104922Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 14:47:07 localhost mysqld: 2018-11-12T06:47:07.113162Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 14:47:07 localhost mysqld: 2018-11-12T06:47:07.113207Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`housekeeper` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 15:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 12 15:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 15:01:01 localhost systemd: Started Session 731 of user root.
+Nov 12 15:01:01 localhost systemd: Starting Session 731 of user root.
+Nov 12 15:05:35 localhost journal: Nov 12, 2018 7:05:35 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 15:05:35 localhost journal: INFO: Started Download metadata
+Nov 12 15:06:36 localhost journal: Nov 12, 2018 7:06:36 AM hudson.model.UpdateSite updateData
+Nov 12 15:06:36 localhost journal: INFO: Obtained the latest update center data file for UpdateSource default
+Nov 12 15:06:37 localhost journal: Nov 12, 2018 7:06:37 AM hudson.model.DownloadService$Downloadable load
+Nov 12 15:06:37 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+Nov 12 15:06:38 localhost journal: Nov 12, 2018 7:06:38 AM hudson.model.DownloadService$Downloadable load
+Nov 12 15:06:38 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+Nov 12 15:06:39 localhost journal: Nov 12, 2018 7:06:39 AM hudson.model.DownloadService$Downloadable load
+Nov 12 15:06:39 localhost journal: INFO: Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+Nov 12 15:06:42 localhost journal: Nov 12, 2018 7:06:42 AM hudson.model.DownloadService$Downloadable load
+Nov 12 15:06:42 localhost journal: INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+Nov 12 15:06:42 localhost journal: Nov 12, 2018 7:06:42 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 15:06:42 localhost journal: INFO: Finished Download metadata. 66,904 ms
+Nov 12 15:21:05 localhost mysqld: 2018-11-12T07:21:05.755029Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 15:21:05 localhost mysqld: 2018-11-12T07:21:05.755059Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 15:21:07 localhost mysqld: 2018-11-12T07:21:07.338020Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 15:21:07 localhost mysqld: 2018-11-12T07:21:07.338046Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 16:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 16:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 16:01:02 localhost systemd: Started Session 732 of user root.
+Nov 12 16:01:02 localhost systemd: Starting Session 732 of user root.
+Nov 12 17:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 17:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 17:01:01 localhost systemd: Started Session 733 of user root.
+Nov 12 17:01:01 localhost systemd: Starting Session 733 of user root.
+Nov 12 17:37:32 localhost rz[14871]: [root] create_snapshot_tables.sql/ZMODEM: 846 Bytes, 10780 BPS
+Nov 12 18:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 18:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 18:01:01 localhost systemd: Started Session 734 of user root.
+Nov 12 18:01:01 localhost systemd: Starting Session 734 of user root.
+Nov 12 18:19:32 localhost systemd: Started Session 735 of user root.
+Nov 12 18:19:32 localhost systemd-logind: New session 735 of user root.
+Nov 12 18:19:32 localhost systemd: Starting Session 735 of user root.
+Nov 12 18:47:14 localhost mysqld: 2018-11-12T10:47:14.383671Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 18:47:14 localhost mysqld: 2018-11-12T10:47:14.383701Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 19:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 19:00:01 localhost systemd: Started Docker Cleanup.
+Nov 12 19:01:01 localhost systemd: Started Session 736 of user root.
+Nov 12 19:01:01 localhost systemd: Starting Session 736 of user root.
+Nov 12 19:05:48 localhost mysqld: 2018-11-12T11:05:48.847069Z 52268 [Note] Aborted connection 52268 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 12 19:06:55 localhost systemd-logind: New session 737 of user root.
+Nov 12 19:06:55 localhost systemd: Started Session 737 of user root.
+Nov 12 19:06:55 localhost systemd: Starting Session 737 of user root.
+Nov 12 20:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 20:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 20:01:01 localhost systemd: Started Session 738 of user root.
+Nov 12 20:01:01 localhost systemd: Starting Session 738 of user root.
+Nov 12 20:18:07 localhost mysqld: 2018-11-12T12:18:07.817661Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:18:07 localhost mysqld: 2018-11-12T12:18:07.817693Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:18:09 localhost mysqld: 2018-11-12T12:18:09.835023Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:18:09 localhost mysqld: 2018-11-12T12:18:09.835048Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:26:15 localhost mysqld: 2018-11-12T12:26:15.834051Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:26:15 localhost mysqld: 2018-11-12T12:26:15.834087Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:26:18 localhost mysqld: 2018-11-12T12:26:18.023207Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:26:18 localhost mysqld: 2018-11-12T12:26:18.023231Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:37:20 localhost systemd: Starting Cleanup of Temporary Directories...
+Nov 12 20:37:20 localhost systemd: Started Cleanup of Temporary Directories.
+Nov 12 20:43:38 localhost journal: Nov 12, 2018 12:43:38 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 20:43:38 localhost journal: INFO: Started Fingerprint cleanup
+Nov 12 20:43:38 localhost journal: Nov 12, 2018 12:43:38 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 12 20:43:38 localhost journal: INFO: Finished Fingerprint cleanup. 190 ms
+Nov 12 20:47:16 localhost mysqld: 2018-11-12T12:47:16.397690Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:47:16 localhost mysqld: 2018-11-12T12:47:16.397719Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:48:08 localhost mysqld: 2018-11-12T12:48:08.279734Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:48:08 localhost mysqld: 2018-11-12T12:48:08.279764Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:48:09 localhost mysqld: 2018-11-12T12:48:09.530118Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:48:09 localhost mysqld: 2018-11-12T12:48:09.530146Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 20:50:06 localhost mysqld: 2018-11-12T12:50:06.586103Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 20:50:06 localhost mysqld: 2018-11-12T12:50:06.586129Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 21:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 21:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 21:01:01 localhost systemd: Started Session 739 of user root.
+Nov 12 21:01:01 localhost systemd: Starting Session 739 of user root.
+Nov 12 21:44:03 localhost systemd-logind: Removed session 725.
+Nov 12 21:44:14 localhost systemd-logind: Removed session 737.
+Nov 12 21:44:51 localhost systemd-logind: Removed session 735.
+Nov 12 21:44:51 localhost systemd: Removed slice User Slice of root.
+Nov 12 21:44:51 localhost systemd: Stopping User Slice of root.
+Nov 12 22:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 22:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 22:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 22:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 22:01:02 localhost systemd: Started Session 740 of user root.
+Nov 12 22:01:02 localhost systemd: Starting Session 740 of user root.
+Nov 12 22:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 12 22:01:02 localhost systemd: Stopping User Slice of root.
+Nov 12 22:13:29 localhost mysqld: 2018-11-12T14:13:29.791320Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 12 22:13:29 localhost mysqld: 2018-11-12T14:13:29.791350Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 12 22:38:32 localhost mysqld: 2018-11-12T14:38:32.319847Z 51042 [Note] Aborted connection 51042 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 12 23:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 12 23:00:00 localhost systemd: Started Docker Cleanup.
+Nov 12 23:01:01 localhost systemd: Created slice User Slice of root.
+Nov 12 23:01:01 localhost systemd: Starting User Slice of root.
+Nov 12 23:01:01 localhost systemd: Started Session 741 of user root.
+Nov 12 23:01:01 localhost systemd: Starting Session 741 of user root.
+Nov 12 23:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 12 23:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 00:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 00:00:01 localhost systemd: Created slice User Slice of root.
+Nov 13 00:00:01 localhost systemd: Starting User Slice of root.
+Nov 13 00:00:01 localhost systemd: Started Session 742 of user root.
+Nov 13 00:00:01 localhost systemd: Starting Session 742 of user root.
+Nov 13 00:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 00:00:07 localhost systemd: Removed slice User Slice of root.
+Nov 13 00:00:07 localhost systemd: Stopping User Slice of root.
+Nov 13 00:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 00:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 00:01:01 localhost systemd: Started Session 743 of user root.
+Nov 13 00:01:01 localhost systemd: Starting Session 743 of user root.
+Nov 13 00:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 00:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 01:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 01:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 01:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 01:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 01:01:01 localhost systemd: Started Session 744 of user root.
+Nov 13 01:01:01 localhost systemd: Starting Session 744 of user root.
+Nov 13 01:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 01:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 02:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 02:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 02:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 02:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 02:01:01 localhost systemd: Started Session 745 of user root.
+Nov 13 02:01:01 localhost systemd: Starting Session 745 of user root.
+Nov 13 02:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 02:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 03:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 03:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 03:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 03:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 03:01:01 localhost systemd: Started Session 746 of user root.
+Nov 13 03:01:01 localhost systemd: Starting Session 746 of user root.
+Nov 13 03:40:18 localhost systemd: Removed slice User Slice of root.
+Nov 13 03:40:18 localhost systemd: Stopping User Slice of root.
+Nov 13 03:43:34 localhost mysqld: 2018-11-12T19:43:34.194208Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 03:43:34 localhost mysqld: 2018-11-12T19:43:34.194241Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 04:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 04:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 04:01:02 localhost systemd: Created slice User Slice of root.
+Nov 13 04:01:02 localhost systemd: Starting User Slice of root.
+Nov 13 04:01:02 localhost systemd: Started Session 747 of user root.
+Nov 13 04:01:02 localhost systemd: Starting Session 747 of user root.
+Nov 13 04:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 13 04:01:02 localhost systemd: Stopping User Slice of root.
+Nov 13 04:04:30 localhost mysqld: 2018-11-12T20:04:30.371418Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 04:04:30 localhost mysqld: 2018-11-12T20:04:30.371458Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 04:05:31 localhost mysqld: 2018-11-12T20:05:31.917020Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 04:05:31 localhost mysqld: 2018-11-12T20:05:31.917052Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 04:14:30 localhost mysqld: 2018-11-12T20:14:30.778815Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 04:14:30 localhost mysqld: 2018-11-12T20:14:30.778844Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 04:14:31 localhost mysqld: 2018-11-12T20:14:31.128363Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 04:14:31 localhost mysqld: 2018-11-12T20:14:31.128388Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 04:45:48 localhost mysqld: 2018-11-12T20:45:48.855245Z 58795 [Note] Aborted connection 58795 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 05:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 05:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 05:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 05:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 05:01:01 localhost systemd: Started Session 748 of user root.
+Nov 13 05:01:01 localhost systemd: Starting Session 748 of user root.
+Nov 13 05:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 05:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 05:47:25 localhost mysqld: 2018-11-12T21:47:25.247441Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 05:47:25 localhost mysqld: 2018-11-12T21:47:25.247465Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 05:55:08 localhost journal: Nov 12, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 05:55:08 localhost journal: INFO: Started Workspace clean-up
+Nov 13 05:55:08 localhost journal: Nov 12, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 05:55:08 localhost journal: INFO: Finished Workspace clean-up. 122 ms
+Nov 13 06:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 06:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 06:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 06:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 06:01:01 localhost systemd: Started Session 749 of user root.
+Nov 13 06:01:01 localhost systemd: Starting Session 749 of user root.
+Nov 13 06:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 06:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 06:05:48 localhost mysqld: 2018-11-12T22:05:48.306167Z 54589 [Note] Aborted connection 54589 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 07:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 07:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 07:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 07:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 07:01:01 localhost systemd: Started Session 750 of user root.
+Nov 13 07:01:01 localhost systemd: Starting Session 750 of user root.
+Nov 13 07:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 07:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 08:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 08:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 08:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 08:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 08:01:01 localhost systemd: Started Session 751 of user root.
+Nov 13 08:01:01 localhost systemd: Starting Session 751 of user root.
+Nov 13 08:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 08:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 08:08:42 localhost mysqld: 2018-11-13T00:08:42.420187Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 08:08:42 localhost mysqld: 2018-11-13T00:08:42.420217Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 09:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 09:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 09:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 09:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 09:01:01 localhost systemd: Started Session 752 of user root.
+Nov 13 09:01:01 localhost systemd: Starting Session 752 of user root.
+Nov 13 09:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 09:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 10:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 10:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 10:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 10:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 10:01:01 localhost systemd: Started Session 753 of user root.
+Nov 13 10:01:01 localhost systemd: Starting Session 753 of user root.
+Nov 13 10:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 10:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 10:22:11 localhost mysqld: 2018-11-13T02:22:11.351477Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 10:22:11 localhost mysqld: 2018-11-13T02:22:11.351505Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 10:22:14 localhost mysqld: 2018-11-13T02:22:14.017817Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 10:22:14 localhost mysqld: 2018-11-13T02:22:14.017846Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 10:55:07 localhost mysqld: 2018-11-13T02:55:07.735725Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 10:55:07 localhost mysqld: 2018-11-13T02:55:07.735764Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 11:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 11:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 11:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 11:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 11:01:01 localhost systemd: Started Session 754 of user root.
+Nov 13 11:01:01 localhost systemd: Starting Session 754 of user root.
+Nov 13 11:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 11:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 11:02:38 localhost systemd: Created slice User Slice of root.
+Nov 13 11:02:38 localhost systemd: Starting User Slice of root.
+Nov 13 11:02:38 localhost systemd: Started Session 755 of user root.
+Nov 13 11:02:38 localhost systemd: Starting Session 755 of user root.
+Nov 13 11:02:38 localhost systemd-logind: New session 755 of user root.
+Nov 13 11:05:48 localhost mysqld: 2018-11-13T03:05:48.630955Z 58817 [Note] Aborted connection 58817 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 11:20:07 localhost mysqld: 2018-11-13T03:20:07.472470Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 11:20:07 localhost mysqld: 2018-11-13T03:20:07.472500Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 11:22:08 localhost mysqld: 2018-11-13T03:22:08.337722Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 11:22:08 localhost mysqld: 2018-11-13T03:22:08.337747Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 11:39:06 localhost mysqld: 2018-11-13T03:39:06.799686Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 11:39:06 localhost mysqld: 2018-11-13T03:39:06.799713Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 11:39:08 localhost mysqld: 2018-11-13T03:39:08.718179Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 11:39:08 localhost mysqld: 2018-11-13T03:39:08.718204Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 11:47:29 localhost mysqld: 2018-11-13T03:47:29.980673Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 11:47:30 localhost mysqld: 2018-11-13T03:47:29.980701Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 12:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 12:00:01 localhost systemd: Started Session 756 of user root.
+Nov 13 12:00:01 localhost systemd: Starting Session 756 of user root.
+Nov 13 12:01:02 localhost systemd: Started Session 757 of user root.
+Nov 13 12:01:02 localhost systemd: Starting Session 757 of user root.
+Nov 13 12:31:54 localhost mysqld: 2018-11-13T04:31:54.156969Z 59123 [Note] Aborted connection 59123 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 12:34:06 localhost mysqld: 2018-11-13T04:34:06.958271Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:34:06 localhost mysqld: 2018-11-13T04:34:06.958298Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:40:07 localhost mysqld: 2018-11-13T04:40:07.081085Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:40:07 localhost mysqld: 2018-11-13T04:40:07.081116Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:41:12 localhost mysqld: 2018-11-13T04:41:12.120421Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:41:12 localhost mysqld: 2018-11-13T04:41:12.120447Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:42:07 localhost mysqld: 2018-11-13T04:42:07.155649Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:42:07 localhost mysqld: 2018-11-13T04:42:07.155677Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`triggers` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:43:09 localhost mysqld: 2018-11-13T04:43:09.211121Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:43:09 localhost mysqld: 2018-11-13T04:43:09.211149Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:43:12 localhost mysqld: 2018-11-13T04:43:12.177199Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:43:12 localhost mysqld: 2018-11-13T04:43:12.177224Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:48:06 localhost mysqld: 2018-11-13T04:48:06.297153Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:48:06 localhost mysqld: 2018-11-13T04:48:06.297177Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:51:05 localhost mysqld: 2018-11-13T04:51:05.610379Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:51:05 localhost mysqld: 2018-11-13T04:51:05.610403Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 12:51:06 localhost mysqld: 2018-11-13T04:51:06.372654Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 12:51:06 localhost mysqld: 2018-11-13T04:51:06.372686Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 13:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 13:01:01 localhost systemd: Started Session 758 of user root.
+Nov 13 13:01:01 localhost systemd: Starting Session 758 of user root.
+Nov 13 13:37:25 localhost mysqld: 2018-11-13T05:37:25.808020Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:37:25 localhost mysqld: 2018-11-13T05:37:25.808052Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:38:06 localhost mysqld: 2018-11-13T05:38:06.888225Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:38:06 localhost mysqld: 2018-11-13T05:38:06.888253Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`event_recovery` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:46:07 localhost mysqld: 2018-11-13T05:46:07.287166Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:46:07 localhost mysqld: 2018-11-13T05:46:07.287196Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:46:07 localhost mysqld: 2018-11-13T05:46:07.288452Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:46:07 localhost mysqld: 2018-11-13T05:46:07.288469Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:47:31 localhost mysqld: 2018-11-13T05:47:31.707329Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:47:31 localhost mysqld: 2018-11-13T05:47:31.707358Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:52:31 localhost mysqld: 2018-11-13T05:52:31.999431Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:52:31 localhost mysqld: 2018-11-13T05:52:31.999475Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:55:05 localhost mysqld: 2018-11-13T05:55:05.837968Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:55:05 localhost mysqld: 2018-11-13T05:55:05.837996Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:55:07 localhost mysqld: 2018-11-13T05:55:07.087222Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:55:07 localhost mysqld: 2018-11-13T05:55:07.087259Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 13:59:30 localhost mysqld: 2018-11-13T05:59:30.180830Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 13:59:30 localhost mysqld: 2018-11-13T05:59:30.180866Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 14:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 14:01:01 localhost systemd: Started Session 759 of user root.
+Nov 13 14:01:01 localhost systemd: Starting Session 759 of user root.
+Nov 13 14:15:06 localhost mysqld: 2018-11-13T06:15:06.068962Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:15:06 localhost mysqld: 2018-11-13T06:15:06.068992Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:15:06 localhost mysqld: 2018-11-13T06:15:06.070901Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:15:06 localhost mysqld: 2018-11-13T06:15:06.070917Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:17:06 localhost mysqld: 2018-11-13T06:17:06.236730Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:17:06 localhost mysqld: 2018-11-13T06:17:06.236759Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`events` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:17:07 localhost mysqld: 2018-11-13T06:17:07.649214Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:17:07 localhost mysqld: 2018-11-13T06:17:07.649240Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:21:05 localhost mysqld: 2018-11-13T06:21:05.522484Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:21:05 localhost mysqld: 2018-11-13T06:21:05.522514Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:21:07 localhost mysqld: 2018-11-13T06:21:07.753131Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:21:07 localhost mysqld: 2018-11-13T06:21:07.753162Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:24:10 localhost mysqld: 2018-11-13T06:24:10.866656Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:24:10 localhost mysqld: 2018-11-13T06:24:10.866687Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:47:33 localhost mysqld: 2018-11-13T06:47:33.229313Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:47:33 localhost mysqld: 2018-11-13T06:47:33.229344Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 14:49:31 localhost mysqld: 2018-11-13T06:49:31.446534Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 14:49:31 localhost mysqld: 2018-11-13T06:49:31.446562Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 15:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 15:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 15:01:01 localhost systemd: Started Session 760 of user root.
+Nov 13 15:01:01 localhost systemd: Starting Session 760 of user root.
+Nov 13 15:05:35 localhost journal: Nov 13, 2018 7:05:35 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 15:05:35 localhost journal: INFO: Started Download metadata
+Nov 13 15:05:37 localhost journal: Nov 13, 2018 7:05:37 AM hudson.model.DownloadService$Downloadable load
+Nov 13 15:05:37 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+Nov 13 15:05:38 localhost journal: Nov 13, 2018 7:05:38 AM hudson.model.DownloadService$Downloadable load
+Nov 13 15:05:38 localhost journal: INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+Nov 13 15:05:40 localhost journal: Nov 13, 2018 7:05:40 AM hudson.model.DownloadService$Downloadable load
+Nov 13 15:05:40 localhost journal: INFO: Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+Nov 13 15:05:47 localhost journal: Nov 13, 2018 7:05:47 AM hudson.model.DownloadService$Downloadable load
+Nov 13 15:05:47 localhost journal: INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+Nov 13 15:05:47 localhost journal: Nov 13, 2018 7:05:47 AM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 15:05:47 localhost journal: INFO: Finished Download metadata. 12,097 ms
+Nov 13 15:41:57 localhost systemd-logind: Removed session 755.
+Nov 13 15:41:57 localhost systemd: Removed slice User Slice of root.
+Nov 13 15:41:57 localhost systemd: Stopping User Slice of root.
+Nov 13 16:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 16:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 16:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 16:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 16:01:01 localhost systemd: Started Session 761 of user root.
+Nov 13 16:01:01 localhost systemd: Starting Session 761 of user root.
+Nov 13 16:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 16:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 16:03:05 localhost systemd: Created slice User Slice of root.
+Nov 13 16:03:05 localhost systemd: Starting User Slice of root.
+Nov 13 16:03:06 localhost systemd: Started Session 762 of user root.
+Nov 13 16:03:06 localhost systemd-logind: New session 762 of user root.
+Nov 13 16:03:06 localhost systemd: Starting Session 762 of user root.
+Nov 13 16:39:32 localhost mysqld: 2018-11-13T08:39:32.834891Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 16:39:32 localhost mysqld: 2018-11-13T08:39:32.834921Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 16:42:31 localhost mysqld: 2018-11-13T08:42:31.113072Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 16:42:31 localhost mysqld: 2018-11-13T08:42:31.113104Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 16:56:32 localhost mysqld: 2018-11-13T08:56:32.272971Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 16:56:32 localhost mysqld: 2018-11-13T08:56:32.272999Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 17:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 17:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 17:00:31 localhost systemd-logind: Removed session 762.
+Nov 13 17:00:31 localhost systemd: Removed slice User Slice of root.
+Nov 13 17:00:31 localhost systemd: Stopping User Slice of root.
+Nov 13 17:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 17:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 17:01:01 localhost systemd: Started Session 763 of user root.
+Nov 13 17:01:01 localhost systemd: Starting Session 763 of user root.
+Nov 13 17:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 17:01:01 localhost systemd: Stopping User Slice of root.
+Nov 13 17:07:51 localhost systemd: Created slice User Slice of root.
+Nov 13 17:07:51 localhost systemd: Starting User Slice of root.
+Nov 13 17:07:51 localhost systemd: Started Session 764 of user root.
+Nov 13 17:07:51 localhost systemd-logind: New session 764 of user root.
+Nov 13 17:07:51 localhost systemd: Starting Session 764 of user root.
+Nov 13 18:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 18:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 18:01:01 localhost systemd: Started Session 765 of user root.
+Nov 13 18:01:01 localhost systemd: Starting Session 765 of user root.
+Nov 13 18:40:27 localhost mysqld: 2018-11-13T10:40:27.120599Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 18:40:27 localhost mysqld: 2018-11-13T10:40:27.120630Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 19:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 19:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 19:01:01 localhost systemd: Started Session 766 of user root.
+Nov 13 19:01:01 localhost systemd: Starting Session 766 of user root.
+Nov 13 20:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 20:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 20:01:01 localhost systemd: Started Session 767 of user root.
+Nov 13 20:01:01 localhost systemd: Starting Session 767 of user root.
+Nov 13 20:37:20 localhost systemd: Starting Cleanup of Temporary Directories...
+Nov 13 20:37:20 localhost systemd: Started Cleanup of Temporary Directories.
+Nov 13 20:43:34 localhost mysqld: 2018-11-13T12:43:34.013613Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 20:43:34 localhost mysqld: 2018-11-13T12:43:34.013643Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 20:43:38 localhost journal: Nov 13, 2018 12:43:38 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 20:43:38 localhost journal: INFO: Started Fingerprint cleanup
+Nov 13 20:43:38 localhost journal: Nov 13, 2018 12:43:38 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 13 20:43:38 localhost journal: INFO: Finished Fingerprint cleanup. 306 ms
+Nov 13 21:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 21:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 21:01:01 localhost systemd: Started Session 768 of user root.
+Nov 13 21:01:01 localhost systemd: Starting Session 768 of user root.
+Nov 13 21:05:48 localhost mysqld: 2018-11-13T13:05:48.361973Z 46164 [Note] Aborted connection 46164 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 21:47:39 localhost mysqld: 2018-11-13T13:47:39.558456Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 21:47:39 localhost mysqld: 2018-11-13T13:47:39.558485Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 21:47:48 localhost mysqld: 2018-11-13T13:47:48.540454Z 59627 [Note] Aborted connection 59627 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 13 22:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 13 22:00:00 localhost systemd: Started Docker Cleanup.
+Nov 13 22:01:01 localhost systemd: Started Session 769 of user root.
+Nov 13 22:01:01 localhost systemd: Starting Session 769 of user root.
+Nov 13 22:20:14 localhost systemd-logind: Removed session 764.
+Nov 13 22:20:14 localhost systemd: Removed slice User Slice of root.
+Nov 13 22:20:14 localhost systemd: Stopping User Slice of root.
+Nov 13 22:47:40 localhost mysqld: 2018-11-13T14:47:40.474076Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 13 22:47:40 localhost mysqld: 2018-11-13T14:47:40.474103Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 13 23:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 13 23:00:01 localhost systemd: Started Docker Cleanup.
+Nov 13 23:01:01 localhost systemd: Created slice User Slice of root.
+Nov 13 23:01:01 localhost systemd: Starting User Slice of root.
+Nov 13 23:01:01 localhost systemd: Started Session 770 of user root.
+Nov 13 23:01:01 localhost systemd: Starting Session 770 of user root.
+Nov 13 23:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 13 23:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 00:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 00:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 00:00:01 localhost systemd: Created slice User Slice of root.
+Nov 14 00:00:01 localhost systemd: Starting User Slice of root.
+Nov 14 00:00:01 localhost systemd: Started Session 771 of user root.
+Nov 14 00:00:01 localhost systemd: Starting Session 771 of user root.
+Nov 14 00:00:08 localhost systemd: Removed slice User Slice of root.
+Nov 14 00:00:08 localhost systemd: Stopping User Slice of root.
+Nov 14 00:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 00:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 00:01:01 localhost systemd: Started Session 772 of user root.
+Nov 14 00:01:01 localhost systemd: Starting Session 772 of user root.
+Nov 14 00:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 00:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 01:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 01:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 01:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 01:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 01:01:01 localhost systemd: Started Session 773 of user root.
+Nov 14 01:01:01 localhost systemd: Starting Session 773 of user root.
+Nov 14 01:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 01:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 02:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 02:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 02:01:02 localhost systemd: Created slice User Slice of root.
+Nov 14 02:01:02 localhost systemd: Starting User Slice of root.
+Nov 14 02:01:02 localhost systemd: Started Session 774 of user root.
+Nov 14 02:01:02 localhost systemd: Starting Session 774 of user root.
+Nov 14 02:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 14 02:01:02 localhost systemd: Stopping User Slice of root.
+Nov 14 03:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 14 03:00:01 localhost systemd: Started Docker Cleanup.
+Nov 14 03:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 03:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 03:01:01 localhost systemd: Started Session 775 of user root.
+Nov 14 03:01:01 localhost systemd: Starting Session 775 of user root.
+Nov 14 03:35:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 03:35:01 localhost systemd: Stopping User Slice of root.
+Nov 14 03:47:44 localhost mysqld: 2018-11-13T19:47:44.927931Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 03:47:44 localhost mysqld: 2018-11-13T19:47:44.927959Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 04:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 04:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 04:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 04:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 04:01:01 localhost systemd: Started Session 776 of user root.
+Nov 14 04:01:01 localhost systemd: Starting Session 776 of user root.
+Nov 14 04:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 04:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 04:05:31 localhost mysqld: 2018-11-13T20:05:31.642969Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 04:05:31 localhost mysqld: 2018-11-13T20:05:31.643005Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 04:47:45 localhost mysqld: 2018-11-13T20:47:45.538470Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 04:47:45 localhost mysqld: 2018-11-13T20:47:45.538500Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 04:47:45 localhost mysqld: 2018-11-13T20:47:45.850783Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 04:47:45 localhost mysqld: 2018-11-13T20:47:45.850818Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 05:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 05:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 05:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 05:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 05:01:01 localhost systemd: Started Session 777 of user root.
+Nov 14 05:01:01 localhost systemd: Starting Session 777 of user root.
+Nov 14 05:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 05:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 05:55:08 localhost journal: Nov 13, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 14 05:55:08 localhost journal: INFO: Started Workspace clean-up
+Nov 14 05:55:08 localhost journal: Nov 13, 2018 9:55:08 PM hudson.model.AsyncPeriodicWork$1 run
+Nov 14 05:55:08 localhost journal: INFO: Finished Workspace clean-up. 228 ms
+Nov 14 06:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 06:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 06:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 06:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 06:01:01 localhost systemd: Started Session 778 of user root.
+Nov 14 06:01:01 localhost systemd: Starting Session 778 of user root.
+Nov 14 06:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 06:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 06:24:08 localhost mysqld: 2018-11-13T22:24:08.641385Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 06:24:08 localhost mysqld: 2018-11-13T22:24:08.641414Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`alerts` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 06:24:18 localhost mysqld: 2018-11-13T22:24:18.832983Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 06:24:18 localhost mysqld: 2018-11-13T22:24:18.833012Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 07:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 07:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 07:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 07:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 07:01:01 localhost systemd: Started Session 779 of user root.
+Nov 14 07:01:01 localhost systemd: Starting Session 779 of user root.
+Nov 14 07:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 07:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 07:47:48 localhost mysqld: 2018-11-13T23:47:48.020800Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 07:47:48 localhost mysqld: 2018-11-13T23:47:48.020830Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_str` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 08:00:01 localhost systemd: Starting Docker Cleanup...
+Nov 14 08:00:01 localhost systemd: Started Docker Cleanup.
+Nov 14 08:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 08:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 08:01:01 localhost systemd: Started Session 780 of user root.
+Nov 14 08:01:01 localhost systemd: Starting Session 780 of user root.
+Nov 14 08:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 08:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 09:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 09:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 09:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 09:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 09:01:01 localhost systemd: Started Session 781 of user root.
+Nov 14 09:01:01 localhost systemd: Starting Session 781 of user root.
+Nov 14 09:01:01 localhost systemd: Removed slice User Slice of root.
+Nov 14 09:01:01 localhost systemd: Stopping User Slice of root.
+Nov 14 09:05:48 localhost mysqld: 2018-11-14T01:05:48.101217Z 59759 [Note] Aborted connection 59759 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 14 10:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 10:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 10:01:01 localhost systemd: Created slice User Slice of root.
+Nov 14 10:01:01 localhost systemd: Starting User Slice of root.
+Nov 14 10:01:01 localhost systemd: Started Session 782 of user root.
+Nov 14 10:01:01 localhost systemd: Starting Session 782 of user root.
+Nov 14 10:01:02 localhost systemd: Removed slice User Slice of root.
+Nov 14 10:01:02 localhost systemd: Stopping User Slice of root.
+Nov 14 10:03:21 localhost systemd: Created slice User Slice of root.
+Nov 14 10:03:21 localhost systemd: Starting User Slice of root.
+Nov 14 10:03:21 localhost systemd-logind: New session 783 of user root.
+Nov 14 10:03:21 localhost systemd: Started Session 783 of user root.
+Nov 14 10:03:21 localhost systemd: Starting Session 783 of user root.
+Nov 14 11:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 11:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 11:01:01 localhost systemd: Started Session 784 of user root.
+Nov 14 11:01:01 localhost systemd: Starting Session 784 of user root.
+Nov 14 11:07:58 localhost mysqld: 2018-11-14T03:07:58.192650Z 54849 [Note] Aborted connection 54849 to db: 'zabbix' user: 'zbxuser' host: 'localhost' (Got timeout reading communication packets)
+Nov 14 11:47:51 localhost mysqld: 2018-11-14T03:47:51.307632Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 11:47:51 localhost mysqld: 2018-11-14T03:47:51.307659Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 12:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 12:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 12:00:01 localhost systemd: Started Session 785 of user root.
+Nov 14 12:00:01 localhost systemd: Starting Session 785 of user root.
+Nov 14 12:01:01 localhost systemd: Started Session 786 of user root.
+Nov 14 12:01:01 localhost systemd: Starting Session 786 of user root.
+Nov 14 12:33:07 localhost mysqld: 2018-11-14T04:33:07.600706Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 12:33:07 localhost mysqld: 2018-11-14T04:33:07.600733Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 12:47:51 localhost mysqld: 2018-11-14T04:47:51.963339Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 12:47:51 localhost mysqld: 2018-11-14T04:47:51.963367Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 13:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 13:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 13:01:01 localhost systemd: Started Session 787 of user root.
+Nov 14 13:01:01 localhost systemd: Starting Session 787 of user root.
+Nov 14 13:03:30 localhost mysqld: 2018-11-14T05:03:30.494538Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 13:03:30 localhost mysqld: 2018-11-14T05:03:30.494568Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`triggers` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 13:43:09 localhost mysqld: 2018-11-14T05:43:09.120082Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 13:43:09 localhost mysqld: 2018-11-14T05:43:09.120109Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 13:47:52 localhost mysqld: 2018-11-14T05:47:52.650045Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 13:47:52 localhost mysqld: 2018-11-14T05:47:52.650075Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`problem` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 13:54:33 localhost mysqld: 2018-11-14T05:54:33.376096Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 13:54:33 localhost mysqld: 2018-11-14T05:54:33.376127Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 14:00:00 localhost systemd: Starting Docker Cleanup...
+Nov 14 14:00:00 localhost systemd: Started Docker Cleanup.
+Nov 14 14:01:01 localhost systemd: Started Session 788 of user root.
+Nov 14 14:01:01 localhost systemd: Starting Session 788 of user root.
+Nov 14 14:05:30 localhost mysqld: 2018-11-14T06:05:30.640020Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 14:05:30 localhost mysqld: 2018-11-14T06:05:30.640060Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`escalations` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+Nov 14 14:05:44 localhost mysqld: 2018-11-14T06:05:44.612293Z 0 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+Nov 14 14:05:44 localhost mysqld: 2018-11-14T06:05:44.612321Z 0 [Warning] InnoDB: Recalculation of persistent statistics requested for table `zabbix`.`history_uint` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
